@@ -1,3 +1,3 @@
 # Dataviz Certification
 
-Repositori Data Visualization by freeCodeCamp
+Repositori to pass Data Visualization by freeCodeCamp
