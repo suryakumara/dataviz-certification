@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #708090;
+}
+
+svg{
+    background-color: #fff;
+}
+
+.bar{
+    fill: #40ADFF
+}
+
+.bar:hover{
+    fill: #17252A
+}
+
+#tooltip{
+    width: 150px;
+    height: 50px;
+    background-color: lightsteelblue;
+    box-shadow: 1px 1px 10px;
+    border-radius: 2px;
+    pointer-events: none;
+    padding: 2px;
+    text-align: center;
+}
