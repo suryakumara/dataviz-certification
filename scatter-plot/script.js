@@ -6,7 +6,8 @@ const width = 800;
 const height = 500;
 const margin = { top: 100, right: 50, bottom: 50, left: 70 };
 
-const svg = d3.select("main").append("svg").attr("width", width).attr("height", height);
+const svg = d3.select("#main").append("svg").attr("width", width).attr("height", height);
+
 svg
   .append("text")
   .attr("id", "title")

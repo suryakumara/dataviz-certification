@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #708090;
+}
+
+svg{
+    background-color: #fff;
+}
+
+#tooltip{
+    width: 150px;
+    background-color: lightsteelblue;
+    box-shadow: 1px 1px 10px;
+    border-radius: 2px;
+    pointer-events: none;
+    padding: 2px;
+    text-align: center;
+    font-size: 12px;
+}
+
