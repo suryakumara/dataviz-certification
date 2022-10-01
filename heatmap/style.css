@@ -3,7 +3,6 @@
     margin: 0;
 }
 
-
 #main{
     width: 100vw;
     height: 100vh;
@@ -18,8 +17,6 @@ svg{
     background-color: #fff;
 }
 
-
-
 #tooltip{
     width: 150px;
     background-color: lightsteelblue;
@@ -30,3 +27,4 @@ svg{
     text-align: center;
     font-size: 12px;
 }
+

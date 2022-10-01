@@ -36,7 +36,6 @@ let tooltip = d3
   .attr("id", "tooltip")
   .attr("class", "tooltip")
   .style("visibility", "hidden")
-
   .style("position", "absolute");
 
 const onLoadData = async (url) => {
